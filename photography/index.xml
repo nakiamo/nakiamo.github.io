@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photographies on naimcinar</title>
+    <link>/photography/</link>
+    <description>Recent content in Photographies on naimcinar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 27 Feb 2021 22:39:06 +0300</lastBuildDate><atom:link href="/photography/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Link</title>
+      <link>/photography/link/</link>
+      <pubDate>Sat, 27 Feb 2021 22:39:06 +0300</pubDate>
+      
+      <guid>/photography/link/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
