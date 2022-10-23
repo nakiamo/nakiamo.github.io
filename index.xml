@@ -6,16 +6,7 @@
     <description>Recent content on naimcinar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 22 Oct 2022 15:31:59 +0300</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>testpost</title>
-      <link>/posts/testpost/</link>
-      <pubDate>Sat, 22 Oct 2022 15:31:59 +0300</pubDate>
-      
-      <guid>/posts/testpost/</guid>
-      <description>deneme neler oluyor. how can i make this thing work. test. it does not work.</description>
-    </item>
-    
+    <lastBuildDate>Fri, 21 Oct 2022 11:15:09 +0300</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New Book Chapter: Data Privacy in Digital Advertising</title>
       <link>/posts/privacy-in-digital-advertising/</link>
@@ -89,9 +80,9 @@ GitHub.com removed its support for password authentication on August 13, 2021. N
       <pubDate>Thu, 25 Feb 2021 21:35:15 +0300</pubDate>
       
       <guid>/publications/</guid>
-      <description>ARTICLES   Çınar, N. (2018) An evaluation of source effects in consumer generated ads Communication &amp;amp; Society 31 (1), 147-167
-  Çınar, N (2016) Understanding the Motives for Joining Ethnic Online Communities A Study of Turks in Norway Journal of Yasar University 11(42), 67-76
-  Çınar, N. &amp;amp; Uztuğ, F. (2015) Tüketicilerin yaşadıkları olumsuz satın alma deneyimlerine tepkileri: intikam mı, misilleme mi? Consumer reactions to negative purchase experiences: revenge or retaliation (in Turkish) E-Gifder 3(2), 40-56</description>
+      <description>ARTICLES      UPCOMING Çınar, N. (2022) R ile Twitter verisi analizi: Veri toplama, sosyal ağ analizi ve metin analizi aşamaları (Analysis of Twitter Data with R: Data Collection, Social Network Analysis, and Text Analysis Stages).
+  Çınar, N. (2018) An evaluation of source effects in consumer generated ads Communication &amp;amp; Society 31 (1), 147-167
+  Çınar, N (2016) Understanding the Motives for Joining Ethnic Online Communities A Study of Turks in Norway Journal of Yasar University 11(42), 67-76</description>
     </item>
     
     <item>
@@ -128,8 +119,8 @@ GitHub.com removed its support for password authentication on August 13, 2021. N
       <pubDate>Thu, 23 Apr 2020 00:06:40 +0300</pubDate>
       
       <guid>/posts/download-youtube-data-in-r/</guid>
-      <description>Enable APIs The first step is to enable APIs on Google API Console. You need a Google account to do this.
- Click on +ENABLE APIS AND SERVICES Type &amp;lsquo;Youtube&amp;rsquo; on the search bar. You will see four options (Youtube Data API v3, Youtube Analytics API, Youtube Ads Reach API and Youtube Reporting API). Enable all of them. Type &amp;lsquo;Freebase API&amp;rsquo; on the search bar and enable it, too.  Now all the APIs are enabled.</description>
+      <description>Enable APIs    The first step is to enable APIs on Google API Console. You need a Google account to do this.
+ Click on +ENABLE APIS AND SERVICES Type &amp;lsquo;Youtube&amp;rsquo; on the search bar. You will see four options (Youtube Data API v3, Youtube Analytics API, Youtube Ads Reach API and Youtube Reporting API). Enable all of them. Type &amp;lsquo;Freebase API&amp;rsquo; on the search bar and enable it, too.</description>
     </item>
     
     <item>
@@ -176,7 +167,7 @@ GitHub.com removed its support for password authentication on August 13, 2021. N
       <pubDate>Thu, 09 May 2019 18:27:47 +0300</pubDate>
       
       <guid>/posts/future-lions/</guid>
-      <description>Imagining the Future In collaboration with Cannes Lions International Festival of Creativity, Future Lions is the annual worldwide competition that challenges students to create the future. The brief of the competition is simple:
+      <description>Imagining the Future    In collaboration with Cannes Lions International Festival of Creativity, Future Lions is the annual worldwide competition that challenges students to create the future. The brief of the competition is simple:
  Connect an audience of your choosing to a product or service from a global brand in a way that wasn’t possible three years ago.
  The main focus of my “Advertising Project” lecture is on the future consumer and technology trends.</description>
     </item>
